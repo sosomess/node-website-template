@@ -13,7 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/josorioromero/nodeWebsiteTemplate.git"
   },
-  "keywords": ["node", "website", "babel", "express", "templates"],
+  "keywords": [
+    "node",
+    "website",
+    "babel",
+    "express",
+    "templates"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
